@@ -24,6 +24,11 @@ body{
     text-decoration: underline;
 }
 
+.blog h5{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
 @media (max-width:517px) {
     .my-container{
         margin-top: 10em;
@@ -76,5 +81,37 @@ body{
         margin-top: 10em;
         margin-left:100%;
         margin-right:100%;
+    }
+}
+
+/* changes */
+@media (max-width:660px){
+    
+    .my-container{
+        margin-top: 10em;
+        margin-left:50px;
+        margin-right:50px;
+    }
+}
+
+
+
+@media (max-width:670px){
+    
+    .my-container{
+        margin-top: 10em;
+        margin-left:50px;
+        margin-right:50px;
+    }
+}
+
+
+
+@media (max-width:684px){
+    
+    .my-container{
+        margin-top: 10em;
+        margin-left:50px;
+        margin-right:50px;
     }
 }
