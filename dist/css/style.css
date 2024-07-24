@@ -25,10 +25,12 @@ body{
 }
 
 .blog h5{
-    margin-top: 5px;
+    margin-top: 2em;
     margin-bottom: 5px;
 }
-
+.skills{
+    margin-top: 2em;
+}
 @media (max-width:517px) {
     .my-container{
         margin-top: 10em;
